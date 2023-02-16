@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub } from "react-icons/fa";
 import "./All.css";
 
-function navbar() {
+function Navbar() {
   return (
     <div>
       <div className="setBgbc">
@@ -21,4 +21,4 @@ function navbar() {
   );
 }
 
-export default navbar;
+export default Navbar;
